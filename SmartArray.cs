@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TryHomeWork
 {
-    class SmartArray
+    public class SmartArray
     {
         List<int> _array = new List<int>();
 
