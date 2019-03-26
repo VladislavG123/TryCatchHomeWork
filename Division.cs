@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TryHomeWork
 {
-    class Division
+    public class Division
     {
         public double Do(double firstConstant, double secondCostant)
         {
